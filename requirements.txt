@@ -1,0 +1,16 @@
+# Procurement Intelligence Pipeline — Requirements
+# Install with: pip install -r requirements.txt
+
+# Data wrangling
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Excel file support (extract.py reads .xlsx exports)
+openpyxl>=3.1.0
+
+# Dashboard
+streamlit>=1.35.0
+plotly>=5.18.0
+
+# Standard library (no install needed — listed for reference)
+# argparse, logging, pathlib, sqlite3, re, sys, os, textwrap, datetime
