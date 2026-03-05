@@ -175,8 +175,6 @@ After running the pipeline on [Acuerdo Marco: Equipos Informáticos]:
 | Most common processor brand | INTEL |
 | Most ordered processor SKU | INTEL CORE I7 - 14700 |
 
-> ⚠️ Run the pipeline and replace these with your actual numbers from `python src/load.py --queries`.
-
 ---
 
 ## 🔎 Analytical Queries
