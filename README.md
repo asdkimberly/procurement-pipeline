@@ -274,7 +274,7 @@ pip install -r requirements.txt
 
 ## 📬 Contact
 
-**Your Name** — Data Engineer · Electronics Engineer 
+**Kimberly Orozco-Retana** — Data Engineer · Electronics Engineer 
 
 - LinkedIn: [linkedin.com/in/kimberly-orozco-retana/](https://linkedin.com/in/your-profile)
 - GitHub: [github.com/asdkimberly](https://github.com/asdkimberly)
