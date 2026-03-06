@@ -15,7 +15,8 @@
 
 ## 📊 Dashboard Preview
 
-> _Screenshot of the live dashboard goes here — run the app and take a screenshot!_
+![alt text](https://github.com/asdkimberly/procurement-pipeline/blob/main/dashboard.png "Dashboard")
+
 
 | Overview | Suppliers | Entities | Products | Data Quality |
 |----------|-----------|----------|----------|--------------|
