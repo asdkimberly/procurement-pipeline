@@ -22,7 +22,7 @@
 |----------|-----------|----------|----------|--------------|
 | KPIs + spend trend | Top vendors by value | Top agencies by spend | Processor, RAM & storage specs | Flag explorer |
 
-**[Live Demo →](https://peru-procurement-pipeline.streamlit.app/)**
+_Live Demo →_**[Peru Compras — Procurement Intelligence ](https://peru-procurement-pipeline.streamlit.app/)**
 
 ---
 
