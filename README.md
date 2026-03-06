@@ -29,7 +29,7 @@
 ## 🔍 What It Does
 
 This pipeline processes purchase orders (Órdenes de Compra) from Peru's
-[Electronic Catalogs module](https://www.catalogos.perucompras.gob.pe/ConsultaOrdenesPub),
+[Electronic Catalogs module](https://www.catalogos.perucompras.gob.pe/ConsultaOrdenesPub "Peru Compras — Procurement Intelligence"),
 which publishes open data under the OCDS (Open Contracting Data Standard).
 
 **Key capabilities:**
