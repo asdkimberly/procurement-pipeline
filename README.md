@@ -162,7 +162,7 @@ procurement-pipeline/
 
 ---
 
-## 📈 Key Insights (update with your real results)
+## 📈 Key Insights
 
 After running the pipeline on [Acuerdo Marco: Equipos Informáticos]:
 
